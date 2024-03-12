@@ -1,3 +1,4 @@
+# if
 import os
 os.system('clear')
 
@@ -11,3 +12,14 @@ elif num==1:
     print("1")
 else:
     print("일보다 큼")
+
+# while
+import os
+os.system('clear')
+
+num=0
+while num<5:
+    print(num)
+    num+=1
+print("end")
+
